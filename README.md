@@ -1,4 +1,4 @@
-#👋[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31A9EC&size=35&center=false&vCenter=true&width=1000&lines=Hi,+there;)](https://git.io/typing-svg)
+# 👋[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31A9EC&size=35&center=false&vCenter=true&width=1000&lines=Hi,+there;)](https://git.io/typing-svg)
 
 I'm Jonathan Bryan, a passionate software developer and tech enthusiast. I currently work as a Software Developer at UP Estate. </br>
 I like programming because I can think about how to solve a problem in many different ways. </br>
